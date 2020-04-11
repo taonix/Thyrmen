@@ -1,0 +1,38 @@
+name: Thyrmen
+version: 1.0
+author: Taonix
+main: fr.taonix.thyrmen.Main
+commands:
+  info:
+    description: cette commande donne des informations quand a ce plugin
+  bc:
+    description: commande broadcast pour les admins
+    permission: bc.use
+  spawn:
+    description: retour au spwawn
+  invsee:
+    description: invsee admin
+    permission: invs.use
+  dim:
+    description: tp dims
+    permission: dim.use
+  ji:
+    description: nbr de joueurs
+  maintenance:
+    description: mtn
+    usage: /maintenance
+  stat:
+    description: commande admin
+    permission: stat.use
+  map:
+    description: explore
+  legende:
+    description: les legendes
+  warn:
+    description: warn
+    permission: warn.use
+  npcb:
+    description: afjgj
+    permission: npcb.use
+  hub:
+    description: afjgjg
