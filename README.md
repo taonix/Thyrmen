@@ -1,3 +1,3 @@
 # Thyrmen
 
-Very old Minecraft plugin. Depreciated
+Very old Minecraft plugin. Depreciated !
